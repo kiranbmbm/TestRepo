@@ -18,7 +18,10 @@ namespace ExportToExcel
         protected void Page_Load(object sender, EventArgs e)
         {
             string a;
-            string b; 
+            string b;
+            string c;
+            string d;
+
         }
 
         protected void Button1_Click(object sender, EventArgs e)
